@@ -8,6 +8,10 @@ public class ResultActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
+		
+		
+		
+		//ahhahh hahah 
 		setContentView(R.layout.main);
 	}
 

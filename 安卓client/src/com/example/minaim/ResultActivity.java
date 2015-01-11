@@ -11,7 +11,7 @@ public class ResultActivity extends Activity{
 		
 		
 		
-		//ahhahh hahah 
+		//heheheh
 		setContentView(R.layout.main);
 	}
 
